@@ -12,4 +12,4 @@ general:
 test:
   override:
     - gem install xamarin-test-cloud
-    - test-cloud submit "`pwd`/one.apk" 414f8756808cc9e0bfb41d096f99c0c0 --devices f7d1b982 --series "master" --locale "en_US" --app-name "Sky Store TS" --user daljeet.sidhu@sky.uk
+    - test-cloud submit "`pwd`/one.apk" 414f8756808cc9e0bfb41d096f99c0c0 --devices fcc074a4 --series "master" --locale "en_US" --user daljeet.sidhu@sky.uk
