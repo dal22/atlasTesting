@@ -7,8 +7,7 @@ machine:
     version:
       1.8.7-p358-falcon-perf
 
-  general:
-   build_dir: atlasTesting
+  build_dir: atlasTesting
 
   test:
    override:
