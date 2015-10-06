@@ -6,9 +6,6 @@ machine:
     version:
       2.1.2
 
-general:
-  build_dir: atlasTesting
-
 test:
   override:
     - gem install xamarin-test-cloud
