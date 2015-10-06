@@ -4,7 +4,7 @@ machine:
   ruby:
     version: ruby 2.1.2p95
 
- general:
+general:
  	build_dir: atlasTesting
 test:
   override:
