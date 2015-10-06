@@ -1,7 +1,6 @@
 
-
-machine:
-  ruby:
+  
+ruby:
     version: ruby 2.1.2
 
 general:
