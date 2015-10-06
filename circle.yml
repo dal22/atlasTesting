@@ -5,7 +5,8 @@ machine:
     version: ruby 2.1.2p95
 
 general:
- 	build_dir: atlasTesting
+    build_dir: atlasTesting
+
 test:
   override:
     - test-cloud submit one.apk 414f8756808cc9e0bfb41d096f99c0c0 --devices 88c6a6cc --series "master" --locale "en_US" --app-name "Sky Store TS" --user daljeet.sidhu@sky.uk
